@@ -1,3 +1,4 @@
+print("I I'm the 8 ball of desaniy, what do you want to ask me?")
 import random
 
 choice = random.randint(1,4)
@@ -12,4 +13,6 @@ elif choice == 3:
 elif choice == 4:
     print("Without a doubt.")
 elif choice == 5:
-    print("My head says nien.")
+    print("No just no.")
+elif choice == 6:
+    print("You're cancelled 4K dude bye!")
